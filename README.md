@@ -1,3 +1,4 @@
+![image](https://github.com/Aryam2121/Aryam2121/assets/144788392/9901e51c-1482-43de-b453-f5546c964930)
 # 💫 About Me:
 MERN STACK DEVELOPER||COMPTETIVE PROGRAMING||<br>🚀 Diving into Computer Science fundamentals and<br> their real-world applications through<br> MERN Stack 💻, DSA 🧠, and exploring the realms of <br>AI 🤖 and Web3 🌐.||
 

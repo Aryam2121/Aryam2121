@@ -1,5 +1,8 @@
 
-# 💫 About Me:
+# 💫 About Me: 
+![image](https://github.com/Aryam2121/Aryam2121/assets/144788392/489d5e1d-b260-4a1f-89fe-eb12ada9f028)
+
+Hello I am Aryaman Gupta
 MERN STACK DEVELOPER||COMPTETIVE PROGRAMING||<br>🚀 Diving into Computer Science fundamentals and<br> their real-world applications through<br> MERN Stack 💻, DSA 🧠, and exploring the realms of <br>AI 🤖 and Web3 🌐.||
 
 

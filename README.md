@@ -26,7 +26,7 @@ MERN STACK DEVELOPER||COMPTETIVE PROGRAMING||<br>🚀 Diving into Computer Scien
 ![](https://github-contributor-stats.vercel.app/api?username=krishkumar84&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=krishkumar84&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Aryam2121&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

@@ -23,7 +23,7 @@ MERN STACK DEVELOPER||COMPTETIVE PROGRAMING||<br>🚀 Diving into Computer Scien
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=krishkumar84&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Aryam2121&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aryam2121&icon=0&color=1)](https://visitcount.itsvg.in)

@@ -80,9 +80,7 @@ profile.introduce();
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aryam2121&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aryam2121&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ---
 ![Visitor Count](https://profile-counter.glitch.me/{Aryam2121}/count.svg)

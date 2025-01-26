@@ -84,10 +84,8 @@ profile.introduce();
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aryam2121&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Aryam2121&icon=0&color=1)](https://visitcount.itsvg.in)
----
+![Visitor Count](https://profile-counter.glitch.me/{Aryam2121}/count.svg)
 ![](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

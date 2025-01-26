@@ -1,13 +1,72 @@
 
-# 💫 About Me: 
+# Hi there 👋, I'm Aryaman Gupta!
+## 🌟 About Me
+
+- 🔭 I’m currently working on **🚀Fullstack Projects**
+- 🌱 I have strong grasp on **Data Structures and Algorithms** and I'm always excited to learn **new technologies**.
+- 📑 Get to know about me : [porfolio](https://my-resume-aryaman-guptas-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Aryam2121)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/aryaman-gupta-b077b2257/)
+- 📫 How to reach me: **[Email me](mailto:aryamangupta2121@gmail.com)**
 ![image](https://github.com/Aryam2121/Aryam2121/assets/144788392/489d5e1d-b260-4a1f-89fe-eb12ada9f028)
 
-Hello I am Aryaman Gupta
+---
 
-MERN STACK DEVELOPER||COMPTETIVE PROGRAMING||<br>🚀 Diving into Computer Science fundamentals and<br> their real-world applications through<br> MERN Stack 💻, DSA 🧠, and exploring the realms of <br>AI 🤖 and Web3 🌐.||
+Welcome to my profile! Here's a quick snippet about me in JavaScript:
 
+```javascript
+class GitHubProfile {
+  constructor() {
+    this.username = "Aryam2121";
+    this.name = "Aryaman Gupta";
+    this.bio = "Fullstack Developer | DSA Enthusiast";
+    this.achievements = [
+      "SIH 2024 Grand Finalist"
+      "@GSSoC'24 Contributor 🚀"
+      "@Hacktoberfest Contributor 🚀"
+      "@LeetCode(1650+,300+ questions)"
+      ];
+    this.location = "Ghaziabad, Uttar Pradesh 🌍";
+    this.githubUrl = "https://github.com/Aryam2121";
+    this.skills = [
+      "Node.js",
+      "React.js",
+      "MongoDB",
+      "SQL",
+      "Docker",
+      "DSA"
+    ];
+    this.interests = [
+      "Innovative Projects",
+      "Competitive Programming",
+      "Data Structures and Algorithms"
+    ];
+  }
 
-## 🌐 Socials:
+  introduce() {
+    console.log(`👋 Hello, world! I'm ${this.name}.`);
+    console.log(`${this.bio}`);
+    console.log(`🌍 Current location: ${this.location}`);
+    console.log(`🔗 Check out my GitHub: ${this.githubUrl}`);
+    console.log("\n💡 Achievements:");
+    this.achievements.forEach((achievement) => {
+      console.log(`   - ${achievement}`);
+    });
+    console.log("\n💻 Skills I'm proud of:");
+    this.skills.forEach((skill) => {
+      console.log(`   - ${skill}`);
+    });
+    console.log("\n🚀 Things I love to explore:");
+    this.interests.forEach((interest) => {
+      console.log(`   - ${interest}`);
+    });
+  }
+}
+
+const profile = new GitHubProfile();
+profile.introduce();
+```
+## 🚀 Profiles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryaman-gupta-b077b2257/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@aryamanguptabilari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/AryamanGupta21) 
 
 # 💻 Tech Stack:

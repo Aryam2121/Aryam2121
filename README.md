@@ -8,6 +8,7 @@
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Aryam2121)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/aryaman-gupta-b077b2257/)
 - 📫 How to reach me: **[Email me](mailto:aryamangupta2121@gmail.com)**
+
 ![image](https://github.com/Aryam2121/Aryam2121/assets/144788392/489d5e1d-b260-4a1f-89fe-eb12ada9f028)
 
 ---

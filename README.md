@@ -85,7 +85,7 @@ profile.introduce();
 ## 📐 Activity Graph
 [![Aryaman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryam2121&theme=react)](https://github.com/Aryam2121/github-readme-activity-graph)
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aryam2121&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 ---

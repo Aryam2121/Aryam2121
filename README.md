@@ -79,7 +79,6 @@ profile.introduce();
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20Thousand%20lines%20of%20code-blue)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryam2121&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryam2121&theme=dark&hide_border=false) 
 [![An image of @aryam2121's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryam2121)](https://holopin.io/@aryam2121)
 ## 🏆 GitHub Trophies

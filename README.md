@@ -76,7 +76,6 @@ profile.introduce();
 ![](https://github-readme-stats.vercel.app/api?username=Aryam2121&theme=merko&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=Aryam2121&theme=merko&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryam2121&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C067%20hrs%206%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.4%20Thousand%20lines%20of%20code-blue)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryam2121&theme=dark&hide_border=false) 

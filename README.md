@@ -84,12 +84,10 @@ profile.introduce();
 ![](https://github-profile-trophy.vercel.app/?username=Aryam2121&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ## 📐 Activity Graph
 [![Aryaman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryam2121&theme=react)](https://github.com/Aryam2121/github-readme-activity-graph)
-
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aryam2121&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Aryam2121&theme=tokyonight&combine_all_yearly_contributions=true)
 ---
 ![Visitor Count](https://profile-counter.glitch.me/{Aryam2121}/count.svg)
 ![](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)

@@ -137,7 +137,7 @@ profile.introduce();
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryam2121&theme=dark&hide_border=false) 
 [![An image of @aryam2121's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryam2121)](https://holopin.io/@aryam2121)
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aryam2121&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Aryam2121&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 ## 📐 Activity Graph
 [![Aryaman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryam2121&theme=react)](https://github.com/Aryam2121/github-readme-activity-graph)
 ### ✍️ Dev Quote
